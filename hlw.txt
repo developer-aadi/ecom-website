@@ -1,2 +1,5 @@
 Aditya
-class
+class = Aditya
+class = Aditya
+class = Aditya
+class = Aditya
